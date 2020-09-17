@@ -1,16 +1,16 @@
 body{
-    background-image: url(https://images.squarespace-cdn.com/content/v1/5a5d344cb7411c8b282df032/1516478046280-AHLC4R6E52XOF4AHZU9E/ke17ZwdGBToddI8pDm48kCDnvzZDSTqrZYB0qToMReZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0psyQQR5KrxgIm8QcotvsYtvUHnJsni5ivcu2RP0UO8zWN1uCXtq4fHLhtl5lYmmpQ/bruno-soares-284974.jpg?format=2500w);
+    background-image: url(https://bit.ly/3iGITjT);
     background-size: cover;
   }
   
   /*css for the contact page*/
-  
+
   body {font-family: 'Permanent Marker', cursive;}
   * {box-sizing: border-box;}
   
   input[type=text], select, textarea {
     width: 100%; /* Full width */
-    padding: 12px; /* Some padding */ 
+    padding: 20px; /* Some padding */ 
     border: 1px solid #ccc; /* Gray border */
     border-radius: 4px; /* Rounded borders */
     box-sizing: border-box; /* Make sure that padding and width stays in place */
@@ -48,7 +48,7 @@ body{
   
   * {
       box-sizing: border-box;
-      
+      font-family: 'Permanent Marker', cursive;
     }
     
     body {
@@ -65,7 +65,7 @@ body{
     }
     
     h1 {
-      
+        font-family: 'Permanent Marker', cursive;
       font-size: 50px;
       word-break: break-all;
     }
